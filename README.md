@@ -1,3 +1,5 @@
+- [![An image of @spyrochhetri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spyrochhetri)](https://holopin.io/@spyrochhetri)
+-
 - 👋 Hi, I’m @spyrochhetri
 - 👀 I’m interested in coding.designing
 - 🌱 I’m currently learning javascript
