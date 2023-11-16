@@ -2,7 +2,7 @@
 -
 - 👋 Hi, I’m @spyrochhetri
 - 👀 I’m interested in coding.designing
-- 🌱 I’m currently learning javascript
+- 🌱 I’m learning JS.
 - 💞️ I’m looking to collaborate on JS Project
 - 📫 How to reach me Facebook:https://www.facebook.com/subuu.pou
 
